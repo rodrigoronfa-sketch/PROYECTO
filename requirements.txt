@@ -61,7 +61,6 @@ python-dateutil==2.9.0.post0
 pyttsx3==2.99
 pytweening==1.2.0
 pytz==2026.2
-pywin32==311
 pyzmq==27.1.0
 requests==2.34.2
 scikit-learn==1.5.2
